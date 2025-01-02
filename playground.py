@@ -59,30 +59,23 @@ track="devops"
     'track': 'devops',
     }
 """
-
-data=  {"name":"abc", "track":"devops"}
-# data = data.items()
-# print(data, type(data))
-
-
-
-for item in data:
-    print(item)
 #
-data_items = data.items()
-# for item in data_items:
+# data=  {"name":"abc", "track":"devops"}
+# # data = data.items()
+# # print(data, type(data))
+#
+#
+#
+# for item in data:
 #     print(item)
-
-
-for k , v in data_items:
-    print(f"{k}: {v}")
-
-
-
-
-
-
-
+# #
+# data_items = data.items()
+# # for item in data_items:
+# #     print(item)
+#
+#
+# for k , v in data_items:
+#     print(f"{k}: {v}")
 
 
 
@@ -90,6 +83,14 @@ for k , v in data_items:
 
 
 
+
+
+
+
+
+print("ahmed", 'mohamed', "mina",234 , sep='*')
+print("iti", end="|")
+print("fsdfdf")
 
 
 
